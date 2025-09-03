@@ -1,6 +1,6 @@
 # Function ที่คิดว่าจำเป็นต่อการสอบ
 
-Made by ออกัส FRAB12 aka @kitakitadesu on Discord
+[Made by ออกัส FRAB12 aka @kitakitadesu on Discord](https://hi.bocchichan.moe/)
 
 ![Kita chan](kita.jpg)
 
